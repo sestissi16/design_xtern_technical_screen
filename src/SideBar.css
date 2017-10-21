@@ -1,8 +1,13 @@
 .Sidebar {
     background-color: rgba(0, 0, 0, .93);
-    width: 20em;
+    width: 22%;
     display: flex;
     flex-direction: column;
     align-items: stretch;
     color: white;
+    border-style: groove;
+    border-color: rgba(57, 153, 172, 1);
+    border-width: 8px;
+    margin: 7px;
+    padding: 4px;
 }
