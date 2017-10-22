@@ -1,4 +1,30 @@
 .Mainbody {
-    background-color: rgb(230, 96, 7);
+    background-color:rgba(29, 15, 0, 0.8) ;
     width: 78%;
+    display: flex;
+    margin: 7px 7px 0px 7px;
+    border-style: groove groove none groove;
+    border-color: rgba(230, 96, 7, 1);
+    border-width: 8px;
+    color: white;
+}
+
+.InputText {
+    bottom: 0;
+    position: fixed;
+    width: 73.8%;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    height: 3em;
+    /* margin-bottom: 14px; */
+}
+.Inputfield {
+    flex-grow: 1;
+    background-color: rgba(230, 52, 7, 0.25);
+    border-style: double;
+    border-color: rgba(230, 96, 7, 1);
+    border-width: 2px;
+
+    
 }

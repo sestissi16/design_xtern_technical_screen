@@ -1,13 +1,30 @@
 .Sidebar {
-    background-color: rgba(0, 0, 0, .93);
+    background-color: rgba(1, 21, 24, 0.6);
     width: 22%;
     display: flex;
     flex-direction: column;
     align-items: stretch;
     color: white;
-    border-style: groove;
+    border-style: groove groove none groove;
     border-color: rgba(57, 153, 172, 1);
     border-width: 8px;
-    margin: 7px;
+    margin: 7px 7px 0px 7px;
     padding: 4px;
+}
+
+.SideInputText {
+    bottom:0;
+    position: fixed;
+    width: 21%;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    height: 3em;
+}
+
+.SideInputfield{
+    flex-grow: 1;
+    border-style: double;
+    border-color:rgba(57, 153, 172, 1);
+    border-width: 2px;
 }
