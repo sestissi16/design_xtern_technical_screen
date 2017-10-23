@@ -7,7 +7,7 @@
     top: 0;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: flex-start;
   }
 
 .App-title {
@@ -15,4 +15,10 @@
     font-family: 'Marcellus SC', serif;
     text-align: center;
     color: white;
+}
+
+.imagelogo {
+    height: 80px;
+    width: 80px;  
+    margin-right: 35%;  
 }
