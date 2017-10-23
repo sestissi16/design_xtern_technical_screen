@@ -11,6 +11,11 @@ const Updates = () => {
                     className = "Inputfield"
                     placeholder = "Write your update here...">
                 </input>
+                <button
+                    type="button"
+                    className="EnterUpdate">
+                    <i class="fa fa-paper-plane-o" aria-hidden="true"></i>
+                </button>
             </div>
         </div>
     )

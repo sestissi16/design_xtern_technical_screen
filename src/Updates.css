@@ -27,7 +27,22 @@
     border-style: double;
     /* border-color: rgba(230, 96, 7, 1); */
     border-color:rgba(57, 153, 172, 1);
+    background-color: rgba(72, 193, 214, 0.25);
     border-width: 2px;
-
+    font-family: 'Marcellus SC', serif;
+    font-size: 100%;
     
+}
+
+.EnterUpdate{
+    border-style: double;
+    border-width: 2px;
+    background-color: rgba(60, 191, 214, 0.8);
+    border-color: rgba(60, 191, 214, 1);
+}
+
+.EnterUpdate:hover{
+    background-color: rgba(5, 77, 126, 0.9);
+    border-color: rgba(6, 56, 87, 0.9);
+    box-shadow: 4px, 4px, rgba(1, 24, 39, 0.9);
 }

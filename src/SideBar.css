@@ -31,6 +31,8 @@
     border-color: rgba(230, 96, 7, 1);
     background-color: rgba(230, 52, 7, 0.1);
     border-width: 2px;
+    font-family: 'Marcellus SC', serif;
+    font-size: 100%;
 }
 
 .Enterbutton{
