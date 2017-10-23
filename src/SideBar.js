@@ -11,6 +11,11 @@ const SideBar = ()=>{
                     className = "SideInputfield"
                     placeholder = "Respond...">
                 </input>
+                <button
+                    type="button"
+                    className="Enterbutton">
+                    <i class="fa fa-paper-plane" aria-hidden="true"></i>
+                </button>
             </div>
        </nav> 
     )

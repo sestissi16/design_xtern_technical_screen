@@ -32,3 +32,16 @@
     background-color: rgba(230, 52, 7, 0.1);
     border-width: 2px;
 }
+
+.Enterbutton{
+    background-color: rgba(230, 78, 7, 0.8);
+    border-style: double;
+    border-width: 2px;
+    border-color: rgba(230, 78, 7, 1);
+}
+
+.Enterbutton:hover{
+    background-color: rgba(195, 65, 5, 0.9);
+    border-color: rgba(85, 27, 2, 1);
+    box-shadow: 4px, 4px, rgba(85, 27, 2, 0.9);
+}
