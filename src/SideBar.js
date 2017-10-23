@@ -7,10 +7,10 @@ const SideBar = ()=>{
        <nav className="Sidebar">
            <div className="Title">I'm a sidebar</div>
            <div className = "SideInputText"> 
-                <textarea
+                <input
                     className = "SideInputfield"
                     placeholder = "Respond...">
-                </textarea>
+                </input>
             </div>
        </nav> 
     )

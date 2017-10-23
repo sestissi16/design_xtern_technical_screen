@@ -1,12 +1,15 @@
 .Mainbody {
-    background-color:rgba(29, 15, 0, 0.8) ;
+    /* background-color:rgba(29, 15, 0, 0.8) ; */
+    background-color: rgba(1, 21, 24, 0.6);
     width: 78%;
     display: flex;
     margin: 7px 7px 0px 7px;
     border-style: groove groove none groove;
-    border-color: rgba(230, 96, 7, 1);
+    /* border-color: rgba(230, 96, 7, 1); */
+    border-color:rgba(57, 153, 172, 1);
     border-width: 8px;
     color: white;
+    padding: 4px;
 }
 
 .InputText {
@@ -17,13 +20,13 @@
     justify-content: center;
     background-color: white;
     height: 3em;
-    /* margin-bottom: 14px; */
 }
 .Inputfield {
     flex-grow: 1;
-    background-color: rgba(230, 52, 7, 0.25);
+    /* background-color: rgba(230, 52, 7, 0.25); */
     border-style: double;
-    border-color: rgba(230, 96, 7, 1);
+    /* border-color: rgba(230, 96, 7, 1); */
+    border-color:rgba(57, 153, 172, 1);
     border-width: 2px;
 
     

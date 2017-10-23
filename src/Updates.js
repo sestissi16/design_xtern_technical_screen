@@ -7,10 +7,10 @@ const Updates = () => {
         <div className = "Mainbody">
             <h4>I'm where the updates will go!</h4>
             <div className = "InputText"> 
-                <textarea
+                <input
                     className = "Inputfield"
                     placeholder = "Write your update here...">
-                </textarea>
+                </input>
             </div>
         </div>
     )
