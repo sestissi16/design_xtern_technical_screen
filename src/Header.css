@@ -15,10 +15,22 @@
     font-family: 'Marcellus SC', serif;
     text-align: center;
     color: white;
+    text-shadow: 1px 1px 2px rgb(230, 70, 7), 0 0 20px rgba(57, 153, 172, 1), 0 0 5px rgb(58, 114, 167);
 }
 
 .imagelogo {
     height: 80px;
     width: 80px;  
     margin-right: 35%;  
+}
+
+.SignoutButton {
+    margin-left: 35%;
+    background: none;
+    color: white;
+    border: none;
+}
+
+.App-header button i.fa{
+    font-size: 4em;
 }
