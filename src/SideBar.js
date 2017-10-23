@@ -5,7 +5,7 @@ import './SideBar.css'
 const SideBar = ()=>{
     return (
        <nav className="Sidebar">
-           <div className="Title">I'm a sidebar</div>
+           <h1 className="SideId">Xbot</h1>
            <div className = "SideInputText"> 
                 <input
                     className = "SideInputfield"
