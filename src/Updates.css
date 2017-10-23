@@ -10,6 +10,8 @@
     border-width: 8px;
     color: white;
     padding: 4px;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .InputText {
@@ -45,4 +47,30 @@
     background-color: rgba(5, 77, 126, 0.9);
     border-color: rgba(6, 56, 87, 0.9);
     box-shadow: 4px, 4px, rgba(1, 24, 39, 0.9);
+}
+
+.UpdateId{
+    margin-top: -18%;
+    border-bottom: solid;
+    border-right: solid;
+    border-left: solid;
+    border-radius: 5px;
+    border-color: rgba(92, 200, 219, 0.5);
+}
+
+.Update1{
+    border-bottom: solid;
+    background-color:rgba(60, 191, 214, 0.4);
+    border-top: solid;
+    border-width: 2px;
+    border-color:rgba(92, 200, 219, 0.5);
+    border-radius: 5px;
+}
+.Update2{
+    border-bottom: solid;
+    background-color:rgba(60, 191, 214, 0.4);
+    border-top: solid;
+    border-width: 2px;
+    border-color:rgba(92, 200, 219, 0.5);
+    border-radius: 5px;
 }

@@ -4,6 +4,7 @@ import './App.css';
 import SideBar from './SideBar'
 import Header from './Header'
 import Updates from './Updates'
+import Menu from './Menu'
 
 class App extends Component {
   render() {

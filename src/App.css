@@ -1,5 +1,10 @@
 .Top {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+.Menu{
+  padding-top:100px;
 }
 
 .Bottom {
